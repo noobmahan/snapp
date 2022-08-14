@@ -1,10 +1,38 @@
-section.gray {
+section#section3 {
     display: flex;
     justify-content: space-evenly;
-
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 30px 20%;
 }
-section.gray h1 {
-    margin-top: 30px;
-    margin-bottom: 20px;
+section#section3 h2 {
+    width: 100%;
+    text-align: center;
+}
 
+section#section3 a {
+    display: flex;
+    align-items: center;
+    width: 28%;
+    padding: 3px;
+    margin: 10px 0;
+    border-radius: 18px;
+    text-decoration: none;
+    background: #fff;
+}
+
+section#section3 a img {
+    width: 60px;
+    height: 60px;
+    margin: 13px 10px;
+    align-items: stretch;
+}
+section#section3 a div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+section#section3 a div * {
+    margin: 3px;
 }

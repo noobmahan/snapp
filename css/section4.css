@@ -1,0 +1,13 @@
+section#section4 {
+    display: flex;
+    margin: 80px;
+    justify-content: center;
+}
+section#section4 a{
+    width: 85%;
+}
+section#section4 a img {
+    width: 100%;
+    border-radius: 10px;
+    
+}
