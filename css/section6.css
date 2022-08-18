@@ -12,6 +12,7 @@ section#section6 div.register-driver {
 section#section6 div.register-driver h4 {
     font-size: 40px;
     margin: 10px;
+    padding-top: 40px;
 }
 section#section6 div.register-driver p {
     font-size: 20px;
@@ -19,7 +20,7 @@ section#section6 div.register-driver p {
 section#section6 div.register-driver a button {
     background-color: rgb(0, 209, 112);
     color: #fff;
-    margin: 10px;
+    margin: 5px;
     height: 48px;
     padding-left: 32px;
     padding-right: 32px;
